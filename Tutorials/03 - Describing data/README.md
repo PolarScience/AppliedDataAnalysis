@@ -1,10 +1,10 @@
-# 02 - Read the stats carefully
+# 02 - Describing data
 
 In this tutorial session we explore the basic features of python libraries for statistical analysis and we practice using them.
 
 ---
 
-### 1. Read the stats carefully exercise
+### 1. Describing data exercise
 
 Tutorial and exercises to practice you skills. Solutions will be released next week.
 
