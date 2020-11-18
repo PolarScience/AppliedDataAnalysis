@@ -1,0 +1,3 @@
+[submodule "Homework/Homework"]
+	path = Homework/Homework
+	url = https://github.com/PolarScience/AppliedDataAnalysis.git
